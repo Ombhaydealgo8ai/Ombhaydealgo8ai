@@ -1,186 +1,136 @@
 <div align="center">
 
-# Hi there, I'm Om Bhayde 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Om%20Bhayde&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Forward%20Deployed%20Engineer%20%40%20Algo8%20AI&descAlignY=55&descSize=18&descColor=B57BEE"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Forward+Deployed+Engineer;Full+Stack+Developer;Backend+Developer;Node.js+%7C+React+%7C+TypeScript;Building+Enterprise+Applications;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&random=false&width=750&lines=Forward+Deployed+Engineer+%40+Algo8+AI;Full+Stack+%7C+Backend-Heavy+Engineer;React+%C2%B7+Node.js+%C2%B7+Gen+AI+%C2%B7+Cloud;Turning+Manufacturing+Data+into+Systems;Always+Shipping+%F0%9F%9A%80" />
 
-<img src="https://komarev.com/ghpvc/?username=Ombhaydealgo8ai&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ombhaydealgo8ai&label=Profile%20Views&color=302b63&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/status-available-00F7FF?style=for-the-badge&labelColor=0f0c29"/>
 
 </div>
 
----
+<br/>
 
-# 🚀 About Me
+## 👋 About Me
 
-💼 Forward Deployed Engineer
+```yaml
+name: Om Bhayde
+role: Forward Deployed Engineer
+company: Algo8 AI
+focus: Enterprise manufacturing systems, backend architecture, Gen AI integrations
+philosophy: "Build things that actually hold up in production, not just in the demo."
+```
 
-💻 Full Stack Developer
+- 💼 Forward Deployed Engineer at **Algo8 AI** — bridging enterprise manufacturing systems with modern software
+- 🏗️ Full-stack, but I live closest to the backend and the database
+- 🤖 Shipping Gen AI–powered tooling into real industrial workflows
+- 🌱 Previously an intern at Algo8 AI — now doing it full-time
+- ⚡ I care about systems that are genuinely reliable, not just polished on the surface
 
-🌱 Currently building enterprise manufacturing solutions
+<br/>
 
-⚡ Passionate about scalable backend systems, cloud and AI.
+## 🛠️ Tech Stack
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-# 🛠 Tech Stack
+**Languages**
 
-### Languages
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
-</p>
+**Frontend**
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,vite" />
-</p>
+**Backend**
 
-### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+</td>
+<td valign="top" width="50%">
 
-### Database
+**Database**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"/>
 
-### Cloud & DevOps
+**Cloud & DevOps**
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark"/>
 
-### Tools
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark"/>
 
----
+</td>
+</tr>
+</table>
 
-# 📊 GitHub Stats
+<br/>
+
+## 📊 Metrics & Achievements
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ombhaydealgo8ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombhaydealgo8ai&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Ombhaydealgo8ai/Ombhaydealgo8ai/output/github-metrics.svg"/>
 
 </div>
 
----
+> Generated on a schedule by a GitHub Action and committed to this repo as a static file — this is why it renders reliably instead of depending on a live, rate-limited third-party service. Includes activity, top languages, starred repos, and unlockable achievements (the actual replacement for the old trophy widget).
 
-# 🔥 GitHub Streak
+<br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ombhaydealgo8ai&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ombhaydealgo8ai&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ombhaydealgo8ai&theme=tokyo-night&hide_border=true"/>
-
----
-# 🐍 Contribution Snake
+## 📈 Activity
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ombhaydealgo8ai/Ombhaydealgo8ai/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-# 🚀 Current Focus
 
-- 🔹 Enterprise Backend Development
-- 🔹 Node.js APIs
-- 🔹 React Applications
-- 🔹 Docker Deployments
-- 🔹 AWS Cloud
-- 🔹 Manufacturing Digitalization
-- 🔹 AI Integrations
+<br/>
 
----
+## 🎯 Current Focus
 
-# 🧰 Skills
+| Area | What I'm Doing |
+|---|---|
+| 🏭 Enterprise Backend | Building and hardening APIs for manufacturing-facing platforms |
+| 🧩 Node.js / React | Full-stack feature delivery, end to end |
+| 🐳 Docker & AWS | Shipping and deploying containerized services |
+| 🗄️ Databases | MySQL/Postgres schema design, migrations, and data integrity workflows |
+| 🤖 Gen AI Integrations | Embedding AI-driven features into real operational tooling |
 
-<p>
+<br/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
-
 </p>
 
----
-
-# ⚡ Fun Fact
-
-```text
-while(alive){
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-```
-
----
+<br/>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+```text
+while (alive) {
+  eat();
+  code();
+  sleep();
+  repeat();
+}
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=120&section=footer"/>
+⭐ **Thanks for stopping by.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
